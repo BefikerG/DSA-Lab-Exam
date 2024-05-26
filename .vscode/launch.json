@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Number5",
+            "request": "launch",
+            "mainClass": "Number5",
+            "projectName": "DSA Lab Exam_cf5aaa1e"
+        },
+        {
+            "type": "java",
+            "name": "Number4",
+            "request": "launch",
+            "mainClass": "Number4",
+            "projectName": "DSA Lab Exam_cf5aaa1e"
+        },
+        {
+            "type": "java",
+            "name": "Number3",
+            "request": "launch",
+            "mainClass": "Number3",
+            "projectName": "DSA Lab Exam_cf5aaa1e"
+        },
+        {
+            "type": "java",
+            "name": "Number2",
+            "request": "launch",
+            "mainClass": "Number2",
+            "projectName": "DSA Lab Exam_cf5aaa1e"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Number1",
+            "request": "launch",
+            "mainClass": "Number1",
+            "projectName": "DSA Lab Exam_cf5aaa1e"
+        }
+    ]
+}
